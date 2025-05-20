@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Optional custom scroll styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #a78bfa; /* Violet-400 */
+  border-radius: 8px;
+}
